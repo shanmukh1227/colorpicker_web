@@ -1,0 +1,64 @@
+.h1 {
+    color: #222222;
+    font-weight: bold;
+
+}
+
+.hh {
+    color: #49a6e9;
+}
+
+.hhh {
+    font-family: "Open Sans";
+
+    background-size: cover;
+    height: 100vh;
+}
+
+.b1 {
+    background-color: #e0e0e0;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 12px;
+
+}
+
+.b2 {
+    background-color: #6fcf97;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 12px;
+}
+
+.b3 {
+    background-color: #56ccf2;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 12px;
+}
+
+.b4 {
+    background-color: #bb6bd9;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 12px;
+
+}
+
+.discription {
+    font-size: 15px;
+    color: #222222;
+    font-weight: 500;
+}
+
+.paragraph {
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #222222;
+    border-radius: 8px;
+    font-weight: bold;
+}
